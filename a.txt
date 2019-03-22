@@ -1,2 +1,1 @@
-hello text , hello git, hello ,myself, hello world
-:)
+hello text , hello git
